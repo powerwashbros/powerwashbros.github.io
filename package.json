@@ -1,14 +1,14 @@
 {
-  "homepage": "https://christophercarrollsmith.com",
-  "author": "Christopher Carroll Smith <christopher.smith@promptlytechnologies.com>",
-  "name": "christophercarrollsmith-bookings-site",
+  "homepage": "https://powerwashbros.com",
+  "author": "Dimitry Ermakov <ermakovd06@gmail.com>",
+  "name": "powerwashbros-bookings-site",
   "private": false,
   "version": "0.3.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "cname": "echo christophercarrollsmith.com > ./dist/CNAME",
+    "cname": "echo powerwashbros.com > ./dist/CNAME",
     "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
