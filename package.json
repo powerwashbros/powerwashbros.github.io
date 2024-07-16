@@ -1,5 +1,5 @@
 {
-  "homepage": "https://powerwashbros.com",
+  "homepage": "https://metalmerge.github.io",
   "author": "Dimitry Ermakov <ermakovd06@gmail.com>",
   "name": "powerwashbros-bookings-site",
   "private": false,
@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "cname": "echo powerwashbros.com > ./dist/CNAME",
+    "cname": "echo metalmerge.github.io > ./dist/CNAME",
     "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
