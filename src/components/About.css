@@ -48,3 +48,9 @@ color: #242d57;
 .padded {
     padding: 1rem 0;
 }
+.small {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2em;
+    letter-spacing: 0.05em;
+    color: #333;
+}

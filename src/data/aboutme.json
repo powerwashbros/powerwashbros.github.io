@@ -1,5 +1,5 @@
 {
-  "description": "President of <a href='https://promptlytechnologies.com'>Promptly Technologies</a> and creator of <a href='https://scribert.com'>Scribert</a>, your AI text-to-speech companion.",
+  "description": "Revitalize your home exterior! Bid farewell to dirt, grime, and stains with our powerful pressure washing services.",
   "icons": [
     {"alt": "Javascript", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"},
     {"alt": "Typescript", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"},
@@ -10,9 +10,9 @@
     {"alt": "Supabase", "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"}
   ],
   "skills": [
-    "Websites",
-    "AI applications",
-    "Research support"
+    "Driveway",
+    "Walkway/Patio",
+    "Deck"
   ],
-  "callToAction": "Hire me to solve your automation problem or build your application. Reach out today to get a quote!"
+  "callToAction": "Call Us or Text Us +1-216-566-4106"
 }

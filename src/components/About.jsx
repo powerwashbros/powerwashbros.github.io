@@ -16,11 +16,11 @@ const About = () => {
       <div className="about-section">
         <p className="large" dangerouslySetInnerHTML={renderHtml(aboutMe.description)} />
         <hr />
-        <div className="center-flex padded">
+        {/* <div className="center-flex padded">
           {aboutMe.icons.map((icon) => (
             <img className="skills-icon" src={icon.src} alt={icon.alt} title={icon.alt} key={icon.alt} />
           ))}
-        </div>
+        </div> */}
         <ul className="skills-list">
           {aboutMe.skills.map((skill) => (
             <li key={skill}>{skill}</li>

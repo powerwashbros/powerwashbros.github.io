@@ -7,7 +7,7 @@ import heroData from '../data/heroimages.json';
 const Book = () => {
   const [height, setHeight] = useState(getIframeHeight());
   const hero = heroData.find(h => h.name === 'book');
-  const calendlyUrl = siteProperties.calendlyUrl;
+  const calendlyUrl = siteProperties.calendlyUrl; // TODO: Update with your Calendly URL
 
   function getIframeHeight() {
     const windowWidth = window.innerWidth;

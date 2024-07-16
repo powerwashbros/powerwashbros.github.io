@@ -22,10 +22,10 @@ function Home() {
               objectPosition: windowWidth < 1282 ? `calc(50% - ${hero.adjustment}) center` : `center`
             }}
           />
-          <div style={{ position: 'absolute', top: '30%', left: '2rem', right: '2rem'}}>
+          {/* <div style={{ position: 'absolute', top: '30%', left: '2rem', right: '2rem', color: 'black'}}>
             <h1>{siteProperties.name}</h1>
             <h2>{siteProperties.title}</h2>
-          </div>
+          </div> */}
           <div id="down-arrow">
             <a href="#about"><img className="clickable-icon" src="images/down-arrow.svg" alt="scroll down" /></a>
           </div>

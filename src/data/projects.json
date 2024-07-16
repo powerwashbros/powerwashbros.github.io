@@ -11,7 +11,7 @@
       },
       {
         "title": "SessionScribe",
-        "url": "https://github.com/chriscarrollsmith/session-scribe",
+        "url": "https://github.com/metalmerge/session-scribe",
         "description": "AI transcribe-to-print pipeline",
         "img": "sessionscribe-desktop.png",
         "icon-overlay": "Epson-ribbon-optimized.svg"
@@ -29,12 +29,12 @@
     "projects": [
       {
         "title": "epson-connect-js",
-        "url": "https://github.com/chriscarrollsmith/epson-connect-js",
+        "url": "https://github.com/metalmerge/epson-connect-js",
         "description": "Javascript client library for working with the Epson Connect API"
       },
       {
         "title": "imfp / imfr",
-        "url": "https://github.com/chriscarrollsmith/imfp",
+        "url": "https://github.com/metalmerge/imfp",
         "description": "Python and R client libraries for working with the International Monetary Fund Data API"
       },
       {

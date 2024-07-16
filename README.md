@@ -8,11 +8,11 @@ This is a template for an attractive freelance booking website built with Vite +
 
 ![Site preview](site-preview.gif "Site preview")
 
-See the site live [here](https://chriscarrollsmith.github.io/).
+See the site live [here](https://metalmerge.github.io/).
 
 ## Prerequisites
 
-You will need to have `npm` installed in your development environment. You will also need a [Calendly](https://calendly.com/) account to use the `Book` component, a [Formspree](https://formspree.io/) account to use the `ContactForm` component, and a [ConvertKit](https://convertkit.com/?lmref=R3jWSQ) account to use the `SubscribeForm` component.
+You will need to have `npm` installed in your development environment. You will also need a [Calendly](https://calendly.com/) account to use the `Book` component, a [Formspree](https://formspree.io/) account to use the `ContactForm` component
 
 ## Creating a repo from the template
 
@@ -66,3 +66,17 @@ Additionally, to use a custom domain, you will need to make a couple changes to 
 
 1. Change the "homepage" attribute to your custom domain (e.g., "https://{your-domain}.com).
 2. Update the "cname" command in `package.json` with your custom domain name, and make sure to run this before deploying from a local machine.
+
+
+
+
+THE PRESSURE WASH BROS.
+WITH PRESSURE
+WASHING MAGIC
+Revitalize your home exterior! Bid farewell to dirt, grime, and stains with our powerful pressure washing services.
+Driveway
+Deck
+Walkway/Patio
++ More!
+Call Us or Text Us
++1-216-566-4106

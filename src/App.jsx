@@ -3,9 +3,9 @@ import './App.css';
 import Header from './components/Header';
 import Home from './components/Home';
 import About from './components/About';
-import ProjectFeature from './components/ProjectFeature';
 import Projects from './components/Projects';
-import Writing from './components/Writing';
+// import ProjectFeature from './components/ProjectFeature';
+// import Writing from './components/Writing';
 import Book from './components/Book';
 import Footer from './components/Footer';
 
@@ -16,8 +16,8 @@ function App() {
       <Home />
       <About />
       <Projects />
-      <ProjectFeature />
-      <Writing />
+      {/* <ProjectFeature />
+      <Writing /> */}
       <Book />
       <Footer />
     </div>
