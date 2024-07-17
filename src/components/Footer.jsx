@@ -15,7 +15,7 @@ const Footer = ({ foregroundColor = 'white', backgroundColor = '#4e567e' }) => {
     return (
       <section>
         <div id="footer" style={{backgroundColor: backgroundColor}}>
-          <div className="center-flex">
+          {/* <div className="center-flex">
             {Object.entries(siteProperties.socialProfiles).map(([key, value]) => {
               return socialIcons[key] ? (
                 <a href={value} target="_blank" rel="noopener noreferrer" key={key}>
@@ -23,7 +23,7 @@ const Footer = ({ foregroundColor = 'white', backgroundColor = '#4e567e' }) => {
                 </a>
               ) : null;
             })}
-          </div>
+          </div> */}
           <p className="small" style={{color: foregroundColor}}>Copyright © {siteProperties.name} 2024</p>
         </div>
       </section>
