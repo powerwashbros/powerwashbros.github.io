@@ -20,7 +20,7 @@ function Home() {
             alt={hero.alt}
             style={{
               objectPosition: windowWidth < 1282 ? `calc(50% - ${hero.adjustment}) center` : `center`,
-              filter: 'brightness(1.2)' // Adjust the brightness value as needed
+              filter: 'brightness(1.25)'
             }}
           />
           {/* <div style={{ position: 'absolute', top: '30%', left: '2rem', right: '2rem', color: 'black'}}>
